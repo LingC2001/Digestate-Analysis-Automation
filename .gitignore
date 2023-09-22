@@ -4,5 +4,9 @@ foam_semantic_segmentation/train_labels/
 foam_semantic_segmentation/valid_images/
 foam_semantic_segmentation/valid_labels/
 foam_mask_rcnn/train/
+Pitching/Videos/
 *.pt
 *.pth
+*.mp4
+*.mov
+*.mkv
