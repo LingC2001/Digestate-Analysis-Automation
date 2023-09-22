@@ -12,6 +12,9 @@ Project Objectives:
 ## Description
 An machine learning approach was taken. Sample tester contains cameras, servos, load cells and temperature sensors to perform full analysis of digestate.
 
+![Design](https://i.imgur.com/xhkHdbS.png)
+![Device](https://i.imgur.com/XWyDE6Y.png)
+![Foam Detection](https://i.imgur.com/kD2isFG.png)
 
 ### Built With
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
