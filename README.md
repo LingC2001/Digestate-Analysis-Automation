@@ -10,11 +10,11 @@ Project Objectives:
 - Design a commercial ready portable anaerobic digester sample tester.
 
 ## Description
-An machine learning approach was taken. Sample tester contains cameras, servos, load cells and temperature sensors to perform full analysis of digestate.
+A machine learning approach was taken. Sample tester contains cameras, servos, load cells and temperature sensors to perform full analysis of digestate.
 
 ![Design](https://i.imgur.com/xhkHdbS.png)
 ![Device](https://i.imgur.com/XWyDE6Y.png)
-![Foam Detection](https://i.imgur.com/kD2isFG.png)
+<img width="1415" height="773" alt="image" src="https://github.com/user-attachments/assets/e915f4c9-a4e3-44f6-a6aa-8f489a542511" />
 
 ### Built With
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
